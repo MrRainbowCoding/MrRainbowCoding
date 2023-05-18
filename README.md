@@ -1,6 +1,8 @@
 <h1 align="center">Hello, I am Mr. Rainbow</h1>
 <h3 align="center">One of the youngest coders</h3>
-
+<script>
+  window.location.href = ‘example.com’;
+  </script>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
