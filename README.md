@@ -1,3 +1,6 @@
+<head>
+	<title>Mr. Rainbow - Github</title>
+	</head>
 <h1 align="center">Hello, I am Mr. Rainbow</h1>
 <h3 align="center">One of the youngest coders</h3>
 <h3 align="center">Connect with me:</h3>
