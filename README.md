@@ -1,5 +1,5 @@
-<h1 align="center">Hello, I am Mr. Rainbow</h1>
-<h3 align="center">One of the youngest coders</h3>
+<h1 align="center">Mr. Rainbow</h1>
+<h4 align="center">The advanced newbie</h4>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 </p>
