@@ -1,11 +1,18 @@
-<h1 align="center">Hello, I am Mr. Rainbow</h1>
+<h1 align="center">🌈 Hello, I am Mr. Rainbow</h1>
 <h3 align="center">One of the youngest coders</h3>
 
 ---
 
 ### 📬 Connect with me:
 
-<!-- Add links like GitHub, Twitter, etc., here if you want -->
+<p align="left">
+  <a href="https://x.com/MrRainbow_Real" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.instagram.com/mrrainbowoffical" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
 ---
 
