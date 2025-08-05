@@ -1,13 +1,32 @@
-<h1 align="center">Mr. Rainbow</h1>
-<h4 align="center">The advanced newbie</h4>
-<a align="center" href='mrrainbowcoding.github.io'>Website</a>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h1 align="center">Hello, I am Mr. Rainbow</h1>
+<h3 align="center">One of the youngest coders</h3>
+
+---
+
+### 📬 Connect with me:
+
+<!-- Add links like GitHub, Twitter, etc., here if you want -->
+
+---
+
+### 🛠️ Languages and Tools:
+
+<p align="left">
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
+  </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<div align="center">
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code>
-</div>
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrrainbowcoding&show_icons=true&locale=en" alt="MrRainbowCoding GitHub Stats" />
+</p>
