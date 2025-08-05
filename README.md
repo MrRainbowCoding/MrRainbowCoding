@@ -1,5 +1,5 @@
 <h1 align="center">🌈 Hello, I am Mr. Rainbow</h1>
-<h3 align="center">One of the youngest coders</h3>
+<h3 align="center">A passionate young coder (under 18, over 13)</h3>
 
 ---
 
