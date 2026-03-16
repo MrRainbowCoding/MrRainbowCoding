@@ -30,6 +30,13 @@
   </a>
 </p>
 
+### Notes
+
+<p align="left">
+  I am cleaning out my repos, archiving them as most of my repos won't be updated anymore. If you want it so
+   bad, <b>FIND AN ALTERNATIVE</b>.
+</p>
+
 ---
 
 ### 📊 GitHub Stats
